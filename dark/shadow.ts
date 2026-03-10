@@ -1,0 +1,12 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+const Shadow1 = '0px 0px 1px 0px #21252952, 0px 4px 6px 0px #21252933';
+const Shadow2 = '0px 0px 1px 0px #21252914, 0px 2px 2px 0px #2125290f';
+
+export const ShadowTokens = {
+  Shadow1,
+  Shadow2,
+}
